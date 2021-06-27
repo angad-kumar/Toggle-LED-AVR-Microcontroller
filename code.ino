@@ -1,6 +1,6 @@
 void setup()
 {
-  DDRB = led;
+  DDRB = 0xFF;
 }
 void loop()
 {
